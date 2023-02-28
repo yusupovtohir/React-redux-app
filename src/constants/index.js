@@ -1,0 +1,1 @@
+export const logo = 'https://react-redux.js.org/img/redux-logo-landscape.png'
